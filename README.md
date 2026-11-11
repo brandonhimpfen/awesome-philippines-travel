@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in the Philippines, covering official tourism portals, digital travel registration, inter-island ferry networks, regional guides, and marine conservation sites.
 
+The Philippines is a sprawling tropical archipelago in Southeast Asia featuring thousands of pristine islands, coral reef sanctuaries, diverse marine life, and vibrant cultural traditions. This list is intended for island-hopping travelers, scuba diving enthusiasts, coastal explorers, and tropical adventurers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
