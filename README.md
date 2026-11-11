@@ -10,6 +10,8 @@
 
 The Philippines is a sprawling tropical archipelago in Southeast Asia featuring thousands of pristine islands, coral reef sanctuaries, diverse marine life, and vibrant cultural traditions. This list is intended for island-hopping travelers, scuba diving enthusiasts, coastal explorers, and tropical adventurers.
 
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
+
 ## Contents
 
 - [Official & Planning](#official--planning)
@@ -116,7 +118,9 @@ Practical advice on emergency contacts, tropical storm precautions, and travel s
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
